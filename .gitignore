@@ -1,0 +1,5 @@
+*~
+
+*.o
+
+ffmpeg/decode_ts
